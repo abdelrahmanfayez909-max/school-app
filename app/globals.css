@@ -1,0 +1,417 @@
+@import url('https://fonts.googleapis.com/css2?family=Cairo:wght@300;400;500;600;700&display=swap');
+
+:root {
+  /* Modern Government Enterprise Theme */
+  --primary: #0f172a;
+  /* Slate 900 - The Authority Color */
+  --primary-light: #334155;
+  /* Slate 700 */
+  --primary-hover: #1e293b;
+  /* Slate 800 */
+
+  --brand: #2563eb;
+  /* Royal Blue - Action Color */
+  --brand-hover: #1d4ed8;
+
+  --secondary: #64748b;
+  /* Slate 500 */
+
+  --accent: #f59e0b;
+  /* Amber 500 - Alerts */
+
+  --background: #f8fafc;
+  /* Slate 50 - Very light grey/blue */
+  --surface: #ffffff;
+
+  --text-main: #0f172a;
+  /* Slate 900 */
+  --text-secondary: #475569;
+  /* Slate 600 */
+  --text-muted: #94a3b8;
+  /* Slate 400 */
+
+  --border: #e2e8f0;
+  /* Slate 200 */
+  --border-focus: #3b82f6;
+  /* Blue 500 */
+
+  --success: #10b981;
+  /* Emerald 500 */
+  --danger: #ef4444;
+  /* Red 500 */
+
+  --shadow-sm: 0 1px 2px 0 rgb(0 0 0 / 0.05);
+  --shadow: 0 4px 6px -1px rgb(0 0 0 / 0.1), 0 2px 4px -2px rgb(0 0 0 / 0.1);
+  --shadow-lg: 0 10px 15px -3px rgb(0 0 0 / 0.1), 0 4px 6px -4px rgb(0 0 0 / 0.1);
+  --shadow-inner: inset 0 2px 4px 0 rgb(0 0 0 / 0.05);
+
+  --radius: 0.5rem;
+  /* 8px - Cleaner, more professional */
+}
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  font-family: 'Cairo', system-ui, -apple-system, sans-serif;
+  /* Cairo is the standard for modern Arabic UI */
+  -webkit-font-smoothing: antialiased;
+}
+
+body {
+  background-color: var(--background);
+  color: var(--text-main);
+  direction: rtl;
+  min-height: 100vh;
+  line-height: 1.5;
+}
+
+a {
+  text-decoration: none;
+  color: inherit;
+  transition: color 0.2s;
+}
+
+button {
+  cursor: pointer;
+  border: none;
+  outline: none;
+  background: none;
+  font-family: inherit;
+}
+
+/* Scrollbar */
+::-webkit-scrollbar {
+  width: 6px;
+  height: 6px;
+}
+
+::-webkit-scrollbar-track {
+  background: transparent;
+}
+
+::-webkit-scrollbar-thumb {
+  background: #cbd5e1;
+  border-radius: 3px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: #94a3b8;
+}
+
+/* Typography Utilities */
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-weight: 700;
+  line-height: 1.2;
+  color: var(--text-main);
+}
+
+.text-sm {
+  font-size: 0.875rem;
+}
+
+.text-xs {
+  font-size: 0.75rem;
+}
+
+.text-muted {
+  color: var(--text-muted);
+}
+
+.font-bold {
+  font-weight: 700;
+}
+
+.font-medium {
+  font-weight: 500;
+}
+
+/* Components */
+.card {
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  padding: 1.5rem;
+  box-shadow: var(--shadow-sm);
+  transition: box-shadow 0.2s;
+}
+
+.card:hover {
+  box-shadow: var(--shadow);
+}
+
+.btn {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 0.5rem;
+  padding: 0.6rem 1.2rem;
+  border-radius: var(--radius);
+  font-weight: 600;
+  font-size: 0.95rem;
+  transition: all 0.2s;
+}
+
+.btn-primary {
+  background-color: var(--primary);
+  color: white;
+}
+
+.btn-primary:hover {
+  background-color: var(--primary-hover);
+  transform: translateY(-1px);
+}
+
+.btn-brand {
+  background-color: var(--brand);
+  color: white;
+}
+
+.btn-brand:hover {
+  background-color: var(--brand-hover);
+  box-shadow: 0 4px 6px -1px rgba(37, 99, 235, 0.3);
+}
+
+.btn-outline {
+  border: 1px solid var(--border);
+  background: white;
+  color: var(--text-main);
+}
+
+.btn-outline:hover {
+  background: var(--background);
+  border-color: var(--text-muted);
+}
+
+.input-group {
+  margin-bottom: 1rem;
+}
+
+.label {
+  display: block;
+  font-weight: 500;
+  margin-bottom: 0.5rem;
+  font-size: 0.9rem;
+  color: var(--text-secondary);
+}
+
+.input-field {
+  width: 100%;
+  padding: 0.6rem 1rem;
+  border: 1px solid #cbd5e1;
+  border-radius: var(--radius);
+  font-size: 0.95rem;
+  transition: all 0.2s;
+  background: white;
+  color: var(--text-main);
+}
+
+.input-field:focus {
+  border-color: var(--brand);
+  outline: none;
+  box-shadow: 0 0 0 3px rgba(37, 99, 235, 0.1);
+}
+
+/* Tables - The heart of Admin Apps */
+.table-wrapper {
+  overflow-x: auto;
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  background: white;
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+  text-align: right;
+  white-space: nowrap;
+}
+
+th {
+  background: #f8fafc;
+  padding: 1rem;
+  font-size: 0.85rem;
+  font-weight: 700;
+  color: var(--text-secondary);
+  border-bottom: 1px solid var(--border);
+  text-transform: uppercase;
+}
+
+td {
+  padding: 1rem;
+  color: var(--text-main);
+  border-bottom: 1px solid var(--border);
+  font-size: 0.95rem;
+}
+
+tr:last-child td {
+  border-bottom: none;
+}
+
+tr:hover td {
+  background-color: #f1f5f9;
+}
+
+/* Status Badges */
+.status-badge {
+  padding: 0.25rem 0.75rem;
+  border-radius: 9999px;
+  font-size: 0.8rem;
+  font-weight: 600;
+  display: inline-flex;
+  align-items: center;
+  gap: 0.25rem;
+}
+
+.status-success {
+  background: #dcfce7;
+  color: #15803d;
+}
+
+.status-error {
+  background: #fee2e2;
+  color: #b91c1c;
+}
+
+.status-warning {
+  background: #fef3c7;
+  color: #b45309;
+}
+
+.status-info {
+  background: #e0f2fe;
+  color: #0369a1;
+}
+
+/* Effects */
+.glass {
+  background: rgba(255, 255, 255, 0.8);
+  backdrop-filter: blur(12px);
+  -webkit-backdrop-filter: blur(12px);
+  border: 1px solid rgba(255, 255, 255, 0.3);
+}
+
+.flex-center {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.animate-in {
+  animation: slideUp 0.4s ease-out forwards;
+}
+
+@keyframes slideUp {
+  from {
+    opacity: 0;
+    transform: translateY(10px);
+  }
+
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+/* Responsive Design - Mobile First */
+@media (max-width: 640px) {
+  :root {
+    --radius: 0.375rem;
+  }
+
+  body {
+    font-size: 14px;
+  }
+
+  .card {
+    padding: 1rem !important;
+  }
+
+  .label {
+    font-size: 0.875rem;
+  }
+
+  .input-field,
+  .select {
+    font-size: 16px !important;
+    padding: 0.75rem 0.5rem !important;
+  }
+
+  button {
+    font-size: 0.875rem !important;
+    padding: 0.625rem 1rem !important;
+  }
+
+  h1 {
+    font-size: 1.25rem !important;
+  }
+
+  h2 {
+    font-size: 1.125rem !important;
+  }
+
+  h3 {
+    font-size: 1rem !important;
+  }
+}
+
+@media (max-width: 768px) {
+  body {
+    padding: 0;
+  }
+
+  .card {
+    padding: 1.25rem !important;
+    margin: 0.5rem;
+  }
+
+  table {
+    font-size: 13px;
+  }
+
+  table th,
+  table td {
+    padding: 0.5rem !important;
+  }
+}
+
+@media (max-width: 1024px) {
+  body {
+    padding: 0;
+  }
+
+  .grid {
+    grid-template-columns: 1fr !important;
+  }
+}
+
+/* Tablet and Landscape */
+@media (min-width: 641px) and (max-width: 1024px) {
+  body {
+    font-size: 15px;
+  }
+
+  .card {
+    padding: 1.5rem !important;
+  }
+}
+
+/* Desktop */
+@media (min-width: 1025px) {
+  body {
+    font-size: 16px;
+  }
+
+  .card {
+    padding: 2rem !important;
+  }
+
+  .search-box {
+    display: block !important;
+  }
+}
