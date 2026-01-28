@@ -1,9 +1,12 @@
 import type { NextConfig } from "next";
 
 const nextConfig: NextConfig = {
-  output: 'export',
+  output: 'standalone',
   images: {
     unoptimized: true,
+  },
+  experimental: {
+    optimizePackageImports: ['lucide-react', '@supabase/supabase-js'],
   },
 };
 
