@@ -1,0 +1,34 @@
+{
+  "app": {
+    "[project]/app/_not-found/page": [
+      "static/media/9ff27b8a0a8f3dc0-s.p.9cb3a3e2.woff2"
+    ],
+    "[project]/app/dashboard/attendance/page": [
+      "static/media/9ff27b8a0a8f3dc0-s.p.9cb3a3e2.woff2"
+    ],
+    "[project]/app/dashboard/classes/page": [
+      "static/media/9ff27b8a0a8f3dc0-s.p.9cb3a3e2.woff2"
+    ],
+    "[project]/app/dashboard/logs/page": [
+      "static/media/9ff27b8a0a8f3dc0-s.p.9cb3a3e2.woff2"
+    ],
+    "[project]/app/dashboard/page": [
+      "static/media/9ff27b8a0a8f3dc0-s.p.9cb3a3e2.woff2"
+    ],
+    "[project]/app/dashboard/reports/page": [
+      "static/media/9ff27b8a0a8f3dc0-s.p.9cb3a3e2.woff2"
+    ],
+    "[project]/app/dashboard/settings/page": [
+      "static/media/9ff27b8a0a8f3dc0-s.p.9cb3a3e2.woff2"
+    ],
+    "[project]/app/dashboard/students/page": [
+      "static/media/9ff27b8a0a8f3dc0-s.p.9cb3a3e2.woff2"
+    ],
+    "[project]/app/page": [
+      "static/media/9ff27b8a0a8f3dc0-s.p.9cb3a3e2.woff2"
+    ]
+  },
+  "appUsingSizeAdjust": true,
+  "pages": {},
+  "pagesUsingSizeAdjust": false
+}

@@ -1,0 +1,10 @@
+{
+  "pages": {},
+  "app": {
+    "[project]/app/dashboard/settings/page": [
+      "static/media/9ff27b8a0a8f3dc0-s.p.9cb3a3e2.woff2"
+    ]
+  },
+  "appUsingSizeAdjust": true,
+  "pagesUsingSizeAdjust": false
+}

@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 22, "column": 0}, "map": {"version":3,"sources":["file:///F:/school/app/dashboard/control/page.tsx"],"sourcesContent":["export default function PlaceholderPage() {\r\n    return (\r\n        <div style={{ padding: '4rem', textAlign: 'center', color: 'var(--text-muted)' }}>\r\n            <h1 style={{ fontSize: '2rem', marginBottom: '1rem', color: 'var(--primary)' }}>الكنترول</h1>\r\n            <p>جاري إعداد وحدات رصد الدرجات والشيتات.</p>\r\n        </div>\r\n    );\r\n}\r\n"],"names":[],"mappings":";;;;;;AAAe,SAAS;IACpB,qBACI,8OAAC;QAAI,OAAO;YAAE,SAAS;YAAQ,WAAW;YAAU,OAAO;QAAoB;;0BAC3E,8OAAC;gBAAG,OAAO;oBAAE,UAAU;oBAAQ,cAAc;oBAAQ,OAAO;gBAAiB;0BAAG;;;;;;0BAChF,8OAAC;0BAAE;;;;;;;;;;;;AAGf"}}]
+}

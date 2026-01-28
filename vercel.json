@@ -1,28 +1,9 @@
 {
-  "name": "school-app",
-  "version": "1.0.0",
-  "description": "نظام إدارة المدارس - School Management System",
-  "private": true,
-  "scripts": {
-    "dev": "next dev",
-    "build": "next build",
-    "start": "next start",
-    "lint": "next lint"
-  },
-  "dependencies": {
-    "react": "^19.0.0-rc-66855b96-20241106",
-    "react-dom": "^19.0.0-rc-66855b96-20241106",
-    "next": "16.1.1",
-    "@supabase/supabase-js": "latest",
-    "lucide-react": "latest",
-    "framer-motion": "latest",
-    "html2pdf.js": "latest",
-    "dotenv": "latest"
-  },
-  "devDependencies": {
-    "typescript": "^5",
-    "@types/node": "^20",
-    "@types/react": "^19",
-    "@types/react-dom": "^19"
+  "buildCommand": "npm run build",
+  "outputDirectory": ".next",
+  "framework": "nextjs",
+  "env": {
+    "NEXT_PUBLIC_SUPABASE_URL": "@next_public_supabase_url",
+    "NEXT_PUBLIC_SUPABASE_ANON_KEY": "@next_public_supabase_anon_key"
   }
 }

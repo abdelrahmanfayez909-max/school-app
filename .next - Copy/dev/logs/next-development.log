@@ -1,0 +1,1789 @@
+[00:00:02.110] Server  LOG     ✓ Ready in 1522ms
+[00:00:07.298] Server  WARN    ⚠ Cross origin request detected from 169.254.175.176 to /_next/* resource. In a future major version of Next.js, you will need to explicitly configure "allowedDevOrigins" in next.config to allow this.
+Read more: https://nextjs.org/docs/app/api-reference/config/next-config-js/allowedDevOrigins
+[00:00:07.344] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:04:28.815] Server  LOG     ✓ Compiled in 112ms
+[00:04:41.040] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:07:34.169] Server  LOG     ✓ Compiled in 108ms
+[00:07:38.760] Server  LOG     ✓ Compiled in 27ms
+[00:07:51.103] Server  LOG     ✓ Compiled in 32ms
+[00:08:40.294] Server  LOG     ✓ Compiled in 88ms
+[00:08:46.441] Server  LOG     ✓ Compiled in 40ms
+[00:09:00.512] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:11:40.006] Server  LOG     ✓ Compiled in 115ms
+[00:11:54.277] Server  LOG     ✓ Compiled in 208ms
+[00:12:12.097] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:13:17.164] Server  LOG     ✓ Compiled in 106ms
+[00:13:26.433] Server  LOG     ✓ Compiled in 77ms
+[00:14:39.438] Server  LOG     ✓ Compiled in 32ms
+[00:14:46.120] Server  LOG     ✓ Compiled in 24ms
+[00:14:56.812] Server  LOG     ✓ Compiled in 24ms
+[00:17:07.641] Server  LOG     ✓ Compiled in 183ms
+[00:17:12.767] Server  LOG     ✓ Compiled in 23ms
+[00:17:18.611] Server  LOG     ✓ Compiled in 97ms
+[00:18:23.293] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:18:30.361] Browser ERROR   Error generating report: {}
+[00:19:19.955] Server  LOG     ✓ Compiled in 16ms
+[00:19:29.903] Server  LOG     ✓ Compiled in 28ms
+[00:20:07.353] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:20:12.076] Browser ERROR   Error generating attendance report: {}
+[00:20:19.884] Browser ERROR   Error generating class stats report: {}
+[00:21:31.787] Server  LOG     ✓ Compiled in 20ms
+[00:21:49.548] Server  LOG     ✓ Compiled in 35ms
+[00:21:57.141] Server  LOG     ✓ Compiled in 146ms
+[00:22:33.218] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:22:36.757] Browser ERROR   Error generating attendance report: {}
+[00:23:33.470] Server  LOG     ✓ Compiled in 38ms
+[00:23:34.568] Server  ERROR   ⨯ TypeError: Cannot read properties of undefined (reading 'getFontSize')
+[00:23:34.774] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:23:35.024] Browser ERROR   uncaughtError: TypeError: Cannot read properties of undefined (reading 'getFontSize')
+[00:24:18.287] Server  WARN    ⚠ Fast Refresh had to perform a full reload due to a runtime error.
+[00:24:18.288] Server  WARN    ⚠ Fast Refresh had to perform a full reload when ./app/dashboard/reports/page.tsx changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+[00:24:18.288] Server  WARN    ⚠ Fast Refresh had to perform a full reload due to a runtime error.
+[00:24:18.315] Server  LOG     ✓ Compiled in 46ms
+[00:24:19.080] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:25:20.380] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:25:23.899] Browser ERROR   Error generating attendance report: {}
+[00:25:27.547] Browser ERROR   Error generating attendance report: {}
+[00:26:52.150] Server  LOG     ✓ Compiled in 27ms
+[00:27:07.753] Server  LOG     ✓ Compiled in 28ms
+[00:27:23.925] Server  LOG     ✓ Compiled in 64ms
+[00:28:14.753] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:28:17.560] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:28:30.055] Browser WARN    Unable to look up font label for font 'Arial', 'bold'. Refer to getFontList() for available fonts.
+[00:28:30.055] Browser WARN    Unable to look up font label for font 'Arial', 'normal'. Refer to getFontList() for available fonts.
+[00:28:30.055] Browser WARN    Unable to look up font label for font 'Arial', 'bold'. Refer to getFontList() for available fonts.
+[00:28:30.055] Browser WARN    Unable to look up font label for font 'Arial', 'normal'. Refer to getFontList() for available fonts.
+[00:29:29.392] Server  LOG     ✓ Compiled in 19ms
+[00:29:51.256] Server  LOG     ✓ Compiled in 24ms
+[00:31:28.677] Server  LOG     ✓ Compiled in 26ms
+[00:31:51.463] Server  LOG     ✓ Compiled in 23ms
+[00:32:45.574] Server  LOG     ✓ Compiled in 29ms
+[00:32:57.892] Server  LOG     ✓ Compiled in 24ms
+[00:33:03.458] Server  LOG     ✓ Compiled in 22ms
+[00:33:08.279] Server  LOG     ✓ Compiled in 28ms
+[00:33:17.649] Server  LOG     ✓ Compiled in 24ms
+[00:33:36.454] Server  LOG     ✓ Compiled in 28ms
+[00:33:41.882] Server  LOG     ✓ Compiled in 53ms
+[00:33:47.828] Server  LOG     ✓ Compiled in 27ms
+[00:33:55.322] Server  LOG     ✓ Compiled in 18ms
+[00:35:59.398] Server  LOG     ✓ Compiled in 32ms
+[00:35:59.641] Server  LOG     ✓ Compiled in 29ms
+[00:35:59.868] Server  LOG     ✓ Compiled in 35ms
+[00:36:11.315] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:36:13.818] Browser WARN    Unable to look up font label for font 'Arial', 'bold'. Refer to getFontList() for available fonts.
+[00:36:13.818] Browser WARN    Unable to look up font label for font 'Arial', 'normal'. Refer to getFontList() for available fonts.
+[00:36:13.818] Browser WARN    Unable to look up font label for font 'Arial', 'bold'. Refer to getFontList() for available fonts.
+[00:36:13.818] Browser WARN    Unable to look up font label for font 'Arial', 'normal'. Refer to getFontList() for available fonts.
+[00:37:49.264] Server  LOG     ✓ Compiled in 24ms
+[00:37:49.466] Server  LOG     ✓ Compiled in 24ms
+[00:37:57.787] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:38:02.524] Browser WARN    Unable to look up font label for font 'Arial', 'bold'. Refer to getFontList() for available fonts.
+[00:38:02.524] Browser WARN    Unable to look up font label for font 'Arial', 'normal'. Refer to getFontList() for available fonts.
+[00:38:02.524] Browser WARN    Unable to look up font label for font 'Arial', 'bold'. Refer to getFontList() for available fonts.
+[00:38:02.524] Browser WARN    Unable to look up font label for font 'Arial', 'normal'. Refer to getFontList() for available fonts.
+[00:38:23.013] Browser WARN    Unable to look up font label for font 'Arial', 'bold'. Refer to getFontList() for available fonts.
+[00:38:23.013] Browser WARN    Unable to look up font label for font 'Arial', 'normal'. Refer to getFontList() for available fonts.
+[00:38:23.013] Browser WARN    Unable to look up font label for font 'Arial', 'bold'. Refer to getFontList() for available fonts.
+[00:38:23.013] Browser WARN    Unable to look up font label for font 'Arial', 'normal'. Refer to getFontList() for available fonts.
+[00:39:42.753] Server  LOG     ✓ Compiled in 142ms
+[00:40:02.259] Server  ERROR   ⨯ ./app/dashboard/reports/page.tsx:5:1
+Module not found: Can't resolve 'html2pdf.js'
+  3 | import { useState, useEffect } from 'react';
+  4 | import { FileText, Printer, Calendar } from 'lucide-react';
+> 5 | import html2pdf from 'html2pdf.js';
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 | import { supabase } from '@/lib/supabase';
+  7 |
+  8 | export default function ReportsPage() {
+
+
+
+Import traces:
+  Client Component Browser:
+    ./app/dashboard/reports/page.tsx [Client Component Browser]
+    ./app/dashboard/reports/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./app/dashboard/reports/page.tsx [Client Component SSR]
+    ./app/dashboard/reports/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:40:02.270] Server  ERROR   ⨯ ./app/dashboard/reports/page.tsx:5:1
+Module not found: Can't resolve 'html2pdf.js'
+  3 | import { useState, useEffect } from 'react';
+  4 | import { FileText, Printer, Calendar } from 'lucide-react';
+> 5 | import html2pdf from 'html2pdf.js';
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 | import { supabase } from '@/lib/supabase';
+  7 |
+  8 | export default function ReportsPage() {
+
+
+
+Import traces:
+  Client Component Browser:
+    ./app/dashboard/reports/page.tsx [Client Component Browser]
+    ./app/dashboard/reports/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./app/dashboard/reports/page.tsx [Client Component SSR]
+    ./app/dashboard/reports/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:40:02.280] Server  ERROR   ⨯ ./app/dashboard/reports/page.tsx:5:1
+Module not found: Can't resolve 'html2pdf.js'
+  3 | import { useState, useEffect } from 'react';
+  4 | import { FileText, Printer, Calendar } from 'lucide-react';
+> 5 | import html2pdf from 'html2pdf.js';
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 | import { supabase } from '@/lib/supabase';
+  7 |
+  8 | export default function ReportsPage() {
+
+
+
+Import traces:
+  Client Component Browser:
+    ./app/dashboard/reports/page.tsx [Client Component Browser]
+    ./app/dashboard/reports/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./app/dashboard/reports/page.tsx [Client Component SSR]
+    ./app/dashboard/reports/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:40:02.285] Server  ERROR   ⨯ ./app/dashboard/reports/page.tsx:5:1
+Module not found: Can't resolve 'html2pdf.js'
+  3 | import { useState, useEffect } from 'react';
+  4 | import { FileText, Printer, Calendar } from 'lucide-react';
+> 5 | import html2pdf from 'html2pdf.js';
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 | import { supabase } from '@/lib/supabase';
+  7 |
+  8 | export default function ReportsPage() {
+
+
+
+Import traces:
+  Client Component Browser:
+    ./app/dashboard/reports/page.tsx [Client Component Browser]
+    ./app/dashboard/reports/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./app/dashboard/reports/page.tsx [Client Component SSR]
+    ./app/dashboard/reports/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:40:02.293] Server  ERROR   ⨯ ./app/dashboard/reports/page.tsx:5:1
+Module not found: Can't resolve 'html2pdf.js'
+  3 | import { useState, useEffect } from 'react';
+  4 | import { FileText, Printer, Calendar } from 'lucide-react';
+> 5 | import html2pdf from 'html2pdf.js';
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 | import { supabase } from '@/lib/supabase';
+  7 |
+  8 | export default function ReportsPage() {
+
+
+
+Import traces:
+  Client Component Browser:
+    ./app/dashboard/reports/page.tsx [Client Component Browser]
+    ./app/dashboard/reports/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./app/dashboard/reports/page.tsx [Client Component SSR]
+    ./app/dashboard/reports/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:40:02.298] Server  ERROR   ⨯ ./app/dashboard/reports/page.tsx:5:1
+Module not found: Can't resolve 'html2pdf.js'
+  3 | import { useState, useEffect } from 'react';
+  4 | import { FileText, Printer, Calendar } from 'lucide-react';
+> 5 | import html2pdf from 'html2pdf.js';
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 | import { supabase } from '@/lib/supabase';
+  7 |
+  8 | export default function ReportsPage() {
+
+
+
+Import traces:
+  Client Component Browser:
+    ./app/dashboard/reports/page.tsx [Client Component Browser]
+    ./app/dashboard/reports/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./app/dashboard/reports/page.tsx [Client Component SSR]
+    ./app/dashboard/reports/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:40:02.306] Server  ERROR   ⨯ ./app/dashboard/reports/page.tsx:5:1
+Module not found: Can't resolve 'html2pdf.js'
+  3 | import { useState, useEffect } from 'react';
+  4 | import { FileText, Printer, Calendar } from 'lucide-react';
+> 5 | import html2pdf from 'html2pdf.js';
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 | import { supabase } from '@/lib/supabase';
+  7 |
+  8 | export default function ReportsPage() {
+
+
+
+Import traces:
+  Client Component Browser:
+    ./app/dashboard/reports/page.tsx [Client Component Browser]
+    ./app/dashboard/reports/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./app/dashboard/reports/page.tsx [Client Component SSR]
+    ./app/dashboard/reports/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:40:02.316] Server  ERROR   ⨯ ./app/dashboard/reports/page.tsx:5:1
+Module not found: Can't resolve 'html2pdf.js'
+  3 | import { useState, useEffect } from 'react';
+  4 | import { FileText, Printer, Calendar } from 'lucide-react';
+> 5 | import html2pdf from 'html2pdf.js';
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 | import { supabase } from '@/lib/supabase';
+  7 |
+  8 | export default function ReportsPage() {
+
+
+
+Import traces:
+  Client Component Browser:
+    ./app/dashboard/reports/page.tsx [Client Component Browser]
+    ./app/dashboard/reports/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./app/dashboard/reports/page.tsx [Client Component SSR]
+    ./app/dashboard/reports/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:40:02.325] Server  ERROR   ⨯ ./app/dashboard/reports/page.tsx:5:1
+Module not found: Can't resolve 'html2pdf.js'
+  3 | import { useState, useEffect } from 'react';
+  4 | import { FileText, Printer, Calendar } from 'lucide-react';
+> 5 | import html2pdf from 'html2pdf.js';
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 | import { supabase } from '@/lib/supabase';
+  7 |
+  8 | export default function ReportsPage() {
+
+
+
+Import traces:
+  Client Component Browser:
+    ./app/dashboard/reports/page.tsx [Client Component Browser]
+    ./app/dashboard/reports/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./app/dashboard/reports/page.tsx [Client Component SSR]
+    ./app/dashboard/reports/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:40:02.331] Server  ERROR   ⨯ ./app/dashboard/reports/page.tsx:5:1
+Module not found: Can't resolve 'html2pdf.js'
+  3 | import { useState, useEffect } from 'react';
+  4 | import { FileText, Printer, Calendar } from 'lucide-react';
+> 5 | import html2pdf from 'html2pdf.js';
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 | import { supabase } from '@/lib/supabase';
+  7 |
+  8 | export default function ReportsPage() {
+
+
+
+Import traces:
+  Client Component Browser:
+    ./app/dashboard/reports/page.tsx [Client Component Browser]
+    ./app/dashboard/reports/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./app/dashboard/reports/page.tsx [Client Component SSR]
+    ./app/dashboard/reports/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:40:02.337] Server  ERROR   ⨯ ./app/dashboard/reports/page.tsx:5:1
+Module not found: Can't resolve 'html2pdf.js'
+  3 | import { useState, useEffect } from 'react';
+  4 | import { FileText, Printer, Calendar } from 'lucide-react';
+> 5 | import html2pdf from 'html2pdf.js';
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 | import { supabase } from '@/lib/supabase';
+  7 |
+  8 | export default function ReportsPage() {
+
+
+
+Import traces:
+  Client Component Browser:
+    ./app/dashboard/reports/page.tsx [Client Component Browser]
+    ./app/dashboard/reports/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./app/dashboard/reports/page.tsx [Client Component SSR]
+    ./app/dashboard/reports/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:40:02.342] Server  ERROR   ⨯ ./app/dashboard/reports/page.tsx:5:1
+Module not found: Can't resolve 'html2pdf.js'
+  3 | import { useState, useEffect } from 'react';
+  4 | import { FileText, Printer, Calendar } from 'lucide-react';
+> 5 | import html2pdf from 'html2pdf.js';
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 | import { supabase } from '@/lib/supabase';
+  7 |
+  8 | export default function ReportsPage() {
+
+
+
+Import traces:
+  Client Component Browser:
+    ./app/dashboard/reports/page.tsx [Client Component Browser]
+    ./app/dashboard/reports/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./app/dashboard/reports/page.tsx [Client Component SSR]
+    ./app/dashboard/reports/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:40:02.347] Server  LOG     ✓ Compiled in 41ms
+[00:40:02.455] Browser ERROR   ./app/dashboard/reports/page.tsx:5:1
+Module not found: Can't resolve 'html2pdf.js'
+  3 | import { useState, useEffect } from 'react';
+  4 | import { FileText, Printer, Calendar } from 'lucide-react';
+> 5 | import html2pdf from 'html2pdf.js';
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 | import { supabase } from '@/lib/supabase';
+  7 |
+  8 | export default function ReportsPage() {
+
+Import traces:
+  Client Component Browser:
+    ./app/dashboard/reports/page.tsx [Client Component Browser]
+    ./app/dashboard/reports/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./app/dashboard/reports/page.tsx [Client Component SSR]
+    ./app/dashboard/reports/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+[00:40:05.832] Browser ERROR   ./app/dashboard/reports/page.tsx:5:1
+Module not found: Can't resolve 'html2pdf.js'
+  3 | import { useState, useEffect } from 'react';
+  4 | import { FileText, Printer, Calendar } from 'lucide-react';
+> 5 | import html2pdf from 'html2pdf.js';
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 | import { supabase } from '@/lib/supabase';
+  7 |
+  8 | export default function ReportsPage() {
+
+Import traces:
+  Client Component Browser:
+    ./app/dashboard/reports/page.tsx [Client Component Browser]
+    ./app/dashboard/reports/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./app/dashboard/reports/page.tsx [Client Component SSR]
+    ./app/dashboard/reports/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+[00:40:20.778] Server  ERROR   ⨯ ./app/dashboard/reports/page.tsx:5:1
+Module not found: Can't resolve 'html2pdf.js'
+  3 | import { useState, useEffect } from 'react';
+  4 | import { FileText, Printer, Calendar } from 'lucide-react';
+> 5 | import html2pdf from 'html2pdf.js';
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 | import { supabase } from '@/lib/supabase';
+  7 |
+  8 | export default function ReportsPage() {
+
+
+
+Import traces:
+  Client Component Browser:
+    ./app/dashboard/reports/page.tsx [Client Component Browser]
+    ./app/dashboard/reports/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./app/dashboard/reports/page.tsx [Client Component SSR]
+    ./app/dashboard/reports/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:40:20.783] Server  ERROR   ⨯ ./app/dashboard/reports/page.tsx:5:1
+Module not found: Can't resolve 'html2pdf.js'
+  3 | import { useState, useEffect } from 'react';
+  4 | import { FileText, Printer, Calendar } from 'lucide-react';
+> 5 | import html2pdf from 'html2pdf.js';
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 | import { supabase } from '@/lib/supabase';
+  7 |
+  8 | export default function ReportsPage() {
+
+
+
+Import traces:
+  Client Component Browser:
+    ./app/dashboard/reports/page.tsx [Client Component Browser]
+    ./app/dashboard/reports/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./app/dashboard/reports/page.tsx [Client Component SSR]
+    ./app/dashboard/reports/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:40:20.789] Server  ERROR   ⨯ ./app/dashboard/reports/page.tsx:5:1
+Module not found: Can't resolve 'html2pdf.js'
+  3 | import { useState, useEffect } from 'react';
+  4 | import { FileText, Printer, Calendar } from 'lucide-react';
+> 5 | import html2pdf from 'html2pdf.js';
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 | import { supabase } from '@/lib/supabase';
+  7 |
+  8 | export default function ReportsPage() {
+
+
+
+Import traces:
+  Client Component Browser:
+    ./app/dashboard/reports/page.tsx [Client Component Browser]
+    ./app/dashboard/reports/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./app/dashboard/reports/page.tsx [Client Component SSR]
+    ./app/dashboard/reports/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:40:20.795] Server  ERROR   ⨯ ./app/dashboard/reports/page.tsx:5:1
+Module not found: Can't resolve 'html2pdf.js'
+  3 | import { useState, useEffect } from 'react';
+  4 | import { FileText, Printer, Calendar } from 'lucide-react';
+> 5 | import html2pdf from 'html2pdf.js';
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 | import { supabase } from '@/lib/supabase';
+  7 |
+  8 | export default function ReportsPage() {
+
+
+
+Import traces:
+  Client Component Browser:
+    ./app/dashboard/reports/page.tsx [Client Component Browser]
+    ./app/dashboard/reports/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./app/dashboard/reports/page.tsx [Client Component SSR]
+    ./app/dashboard/reports/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:40:20.805] Server  ERROR   ⨯ ./app/dashboard/reports/page.tsx:5:1
+Module not found: Can't resolve 'html2pdf.js'
+  3 | import { useState, useEffect } from 'react';
+  4 | import { FileText, Printer, Calendar } from 'lucide-react';
+> 5 | import html2pdf from 'html2pdf.js';
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 | import { supabase } from '@/lib/supabase';
+  7 |
+  8 | export default function ReportsPage() {
+
+
+
+Import traces:
+  Client Component Browser:
+    ./app/dashboard/reports/page.tsx [Client Component Browser]
+    ./app/dashboard/reports/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./app/dashboard/reports/page.tsx [Client Component SSR]
+    ./app/dashboard/reports/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:40:20.810] Server  ERROR   ⨯ ./app/dashboard/reports/page.tsx:5:1
+Module not found: Can't resolve 'html2pdf.js'
+  3 | import { useState, useEffect } from 'react';
+  4 | import { FileText, Printer, Calendar } from 'lucide-react';
+> 5 | import html2pdf from 'html2pdf.js';
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 | import { supabase } from '@/lib/supabase';
+  7 |
+  8 | export default function ReportsPage() {
+
+
+
+Import traces:
+  Client Component Browser:
+    ./app/dashboard/reports/page.tsx [Client Component Browser]
+    ./app/dashboard/reports/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./app/dashboard/reports/page.tsx [Client Component SSR]
+    ./app/dashboard/reports/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:40:20.814] Server  ERROR   ⨯ ./app/dashboard/reports/page.tsx:5:1
+Module not found: Can't resolve 'html2pdf.js'
+  3 | import { useState, useEffect } from 'react';
+  4 | import { FileText, Printer, Calendar } from 'lucide-react';
+> 5 | import html2pdf from 'html2pdf.js';
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 | import { supabase } from '@/lib/supabase';
+  7 |
+  8 | export default function ReportsPage() {
+
+
+
+Import traces:
+  Client Component Browser:
+    ./app/dashboard/reports/page.tsx [Client Component Browser]
+    ./app/dashboard/reports/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./app/dashboard/reports/page.tsx [Client Component SSR]
+    ./app/dashboard/reports/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:40:20.818] Server  ERROR   ⨯ ./app/dashboard/reports/page.tsx:5:1
+Module not found: Can't resolve 'html2pdf.js'
+  3 | import { useState, useEffect } from 'react';
+  4 | import { FileText, Printer, Calendar } from 'lucide-react';
+> 5 | import html2pdf from 'html2pdf.js';
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 | import { supabase } from '@/lib/supabase';
+  7 |
+  8 | export default function ReportsPage() {
+
+
+
+Import traces:
+  Client Component Browser:
+    ./app/dashboard/reports/page.tsx [Client Component Browser]
+    ./app/dashboard/reports/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./app/dashboard/reports/page.tsx [Client Component SSR]
+    ./app/dashboard/reports/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:40:20.824] Server  ERROR   ⨯ ./app/dashboard/reports/page.tsx:5:1
+Module not found: Can't resolve 'html2pdf.js'
+  3 | import { useState, useEffect } from 'react';
+  4 | import { FileText, Printer, Calendar } from 'lucide-react';
+> 5 | import html2pdf from 'html2pdf.js';
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 | import { supabase } from '@/lib/supabase';
+  7 |
+  8 | export default function ReportsPage() {
+
+
+
+Import traces:
+  Client Component Browser:
+    ./app/dashboard/reports/page.tsx [Client Component Browser]
+    ./app/dashboard/reports/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./app/dashboard/reports/page.tsx [Client Component SSR]
+    ./app/dashboard/reports/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:40:20.829] Server  ERROR   ⨯ ./app/dashboard/reports/page.tsx:5:1
+Module not found: Can't resolve 'html2pdf.js'
+  3 | import { useState, useEffect } from 'react';
+  4 | import { FileText, Printer, Calendar } from 'lucide-react';
+> 5 | import html2pdf from 'html2pdf.js';
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 | import { supabase } from '@/lib/supabase';
+  7 |
+  8 | export default function ReportsPage() {
+
+
+
+Import traces:
+  Client Component Browser:
+    ./app/dashboard/reports/page.tsx [Client Component Browser]
+    ./app/dashboard/reports/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./app/dashboard/reports/page.tsx [Client Component SSR]
+    ./app/dashboard/reports/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:40:20.833] Server  ERROR   ⨯ ./app/dashboard/reports/page.tsx:5:1
+Module not found: Can't resolve 'html2pdf.js'
+  3 | import { useState, useEffect } from 'react';
+  4 | import { FileText, Printer, Calendar } from 'lucide-react';
+> 5 | import html2pdf from 'html2pdf.js';
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 | import { supabase } from '@/lib/supabase';
+  7 |
+  8 | export default function ReportsPage() {
+
+
+
+Import traces:
+  Client Component Browser:
+    ./app/dashboard/reports/page.tsx [Client Component Browser]
+    ./app/dashboard/reports/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./app/dashboard/reports/page.tsx [Client Component SSR]
+    ./app/dashboard/reports/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:40:20.837] Server  ERROR   ⨯ ./app/dashboard/reports/page.tsx:5:1
+Module not found: Can't resolve 'html2pdf.js'
+  3 | import { useState, useEffect } from 'react';
+  4 | import { FileText, Printer, Calendar } from 'lucide-react';
+> 5 | import html2pdf from 'html2pdf.js';
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 | import { supabase } from '@/lib/supabase';
+  7 |
+  8 | export default function ReportsPage() {
+
+
+
+Import traces:
+  Client Component Browser:
+    ./app/dashboard/reports/page.tsx [Client Component Browser]
+    ./app/dashboard/reports/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./app/dashboard/reports/page.tsx [Client Component SSR]
+    ./app/dashboard/reports/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:40:20.841] Server  LOG     ✓ Compiled in 28ms
+[00:40:20.943] Browser ERROR   ./app/dashboard/reports/page.tsx:5:1
+Module not found: Can't resolve 'html2pdf.js'
+  3 | import { useState, useEffect } from 'react';
+  4 | import { FileText, Printer, Calendar } from 'lucide-react';
+> 5 | import html2pdf from 'html2pdf.js';
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 | import { supabase } from '@/lib/supabase';
+  7 |
+  8 | export default function ReportsPage() {
+
+Import traces:
+  Client Component Browser:
+    ./app/dashboard/reports/page.tsx [Client Component Browser]
+    ./app/dashboard/reports/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./app/dashboard/reports/page.tsx [Client Component SSR]
+    ./app/dashboard/reports/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+[00:40:23.789] Browser ERROR   ./app/dashboard/reports/page.tsx:5:1
+Module not found: Can't resolve 'html2pdf.js'
+  3 | import { useState, useEffect } from 'react';
+  4 | import { FileText, Printer, Calendar } from 'lucide-react';
+> 5 | import html2pdf from 'html2pdf.js';
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 | import { supabase } from '@/lib/supabase';
+  7 |
+  8 | export default function ReportsPage() {
+
+Import traces:
+  Client Component Browser:
+    ./app/dashboard/reports/page.tsx [Client Component Browser]
+    ./app/dashboard/reports/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./app/dashboard/reports/page.tsx [Client Component SSR]
+    ./app/dashboard/reports/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+[00:40:38.361] Server  ERROR   ⨯ ./app/dashboard/reports/page.tsx:5:1
+Module not found: Can't resolve 'html2pdf.js'
+  3 | import { useState, useEffect } from 'react';
+  4 | import { FileText, Printer, Calendar } from 'lucide-react';
+> 5 | import html2pdf from 'html2pdf.js';
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 | import { supabase } from '@/lib/supabase';
+  7 |
+  8 | export default function ReportsPage() {
+
+
+
+Import traces:
+  Client Component Browser:
+    ./app/dashboard/reports/page.tsx [Client Component Browser]
+    ./app/dashboard/reports/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./app/dashboard/reports/page.tsx [Client Component SSR]
+    ./app/dashboard/reports/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:40:38.365] Server  ERROR   ⨯ ./app/dashboard/reports/page.tsx:5:1
+Module not found: Can't resolve 'html2pdf.js'
+  3 | import { useState, useEffect } from 'react';
+  4 | import { FileText, Printer, Calendar } from 'lucide-react';
+> 5 | import html2pdf from 'html2pdf.js';
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 | import { supabase } from '@/lib/supabase';
+  7 |
+  8 | export default function ReportsPage() {
+
+
+
+Import traces:
+  Client Component Browser:
+    ./app/dashboard/reports/page.tsx [Client Component Browser]
+    ./app/dashboard/reports/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./app/dashboard/reports/page.tsx [Client Component SSR]
+    ./app/dashboard/reports/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:40:38.370] Server  ERROR   ⨯ ./app/dashboard/reports/page.tsx:5:1
+Module not found: Can't resolve 'html2pdf.js'
+  3 | import { useState, useEffect } from 'react';
+  4 | import { FileText, Printer, Calendar } from 'lucide-react';
+> 5 | import html2pdf from 'html2pdf.js';
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 | import { supabase } from '@/lib/supabase';
+  7 |
+  8 | export default function ReportsPage() {
+
+
+
+Import traces:
+  Client Component Browser:
+    ./app/dashboard/reports/page.tsx [Client Component Browser]
+    ./app/dashboard/reports/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./app/dashboard/reports/page.tsx [Client Component SSR]
+    ./app/dashboard/reports/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:40:38.375] Server  ERROR   ⨯ ./app/dashboard/reports/page.tsx:5:1
+Module not found: Can't resolve 'html2pdf.js'
+  3 | import { useState, useEffect } from 'react';
+  4 | import { FileText, Printer, Calendar } from 'lucide-react';
+> 5 | import html2pdf from 'html2pdf.js';
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 | import { supabase } from '@/lib/supabase';
+  7 |
+  8 | export default function ReportsPage() {
+
+
+
+Import traces:
+  Client Component Browser:
+    ./app/dashboard/reports/page.tsx [Client Component Browser]
+    ./app/dashboard/reports/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./app/dashboard/reports/page.tsx [Client Component SSR]
+    ./app/dashboard/reports/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:40:38.381] Server  ERROR   ⨯ ./app/dashboard/reports/page.tsx:5:1
+Module not found: Can't resolve 'html2pdf.js'
+  3 | import { useState, useEffect } from 'react';
+  4 | import { FileText, Printer, Calendar } from 'lucide-react';
+> 5 | import html2pdf from 'html2pdf.js';
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 | import { supabase } from '@/lib/supabase';
+  7 |
+  8 | export default function ReportsPage() {
+
+
+
+Import traces:
+  Client Component Browser:
+    ./app/dashboard/reports/page.tsx [Client Component Browser]
+    ./app/dashboard/reports/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./app/dashboard/reports/page.tsx [Client Component SSR]
+    ./app/dashboard/reports/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:40:38.386] Server  ERROR   ⨯ ./app/dashboard/reports/page.tsx:5:1
+Module not found: Can't resolve 'html2pdf.js'
+  3 | import { useState, useEffect } from 'react';
+  4 | import { FileText, Printer, Calendar } from 'lucide-react';
+> 5 | import html2pdf from 'html2pdf.js';
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 | import { supabase } from '@/lib/supabase';
+  7 |
+  8 | export default function ReportsPage() {
+
+
+
+Import traces:
+  Client Component Browser:
+    ./app/dashboard/reports/page.tsx [Client Component Browser]
+    ./app/dashboard/reports/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./app/dashboard/reports/page.tsx [Client Component SSR]
+    ./app/dashboard/reports/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:40:38.390] Server  ERROR   ⨯ ./app/dashboard/reports/page.tsx:5:1
+Module not found: Can't resolve 'html2pdf.js'
+  3 | import { useState, useEffect } from 'react';
+  4 | import { FileText, Printer, Calendar } from 'lucide-react';
+> 5 | import html2pdf from 'html2pdf.js';
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 | import { supabase } from '@/lib/supabase';
+  7 |
+  8 | export default function ReportsPage() {
+
+
+
+Import traces:
+  Client Component Browser:
+    ./app/dashboard/reports/page.tsx [Client Component Browser]
+    ./app/dashboard/reports/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./app/dashboard/reports/page.tsx [Client Component SSR]
+    ./app/dashboard/reports/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:40:38.397] Server  ERROR   ⨯ ./app/dashboard/reports/page.tsx:5:1
+Module not found: Can't resolve 'html2pdf.js'
+  3 | import { useState, useEffect } from 'react';
+  4 | import { FileText, Printer, Calendar } from 'lucide-react';
+> 5 | import html2pdf from 'html2pdf.js';
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 | import { supabase } from '@/lib/supabase';
+  7 |
+  8 | export default function ReportsPage() {
+
+
+
+Import traces:
+  Client Component Browser:
+    ./app/dashboard/reports/page.tsx [Client Component Browser]
+    ./app/dashboard/reports/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./app/dashboard/reports/page.tsx [Client Component SSR]
+    ./app/dashboard/reports/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:40:38.404] Server  ERROR   ⨯ ./app/dashboard/reports/page.tsx:5:1
+Module not found: Can't resolve 'html2pdf.js'
+  3 | import { useState, useEffect } from 'react';
+  4 | import { FileText, Printer, Calendar } from 'lucide-react';
+> 5 | import html2pdf from 'html2pdf.js';
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 | import { supabase } from '@/lib/supabase';
+  7 |
+  8 | export default function ReportsPage() {
+
+
+
+Import traces:
+  Client Component Browser:
+    ./app/dashboard/reports/page.tsx [Client Component Browser]
+    ./app/dashboard/reports/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./app/dashboard/reports/page.tsx [Client Component SSR]
+    ./app/dashboard/reports/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:40:38.408] Server  ERROR   ⨯ ./app/dashboard/reports/page.tsx:5:1
+Module not found: Can't resolve 'html2pdf.js'
+  3 | import { useState, useEffect } from 'react';
+  4 | import { FileText, Printer, Calendar } from 'lucide-react';
+> 5 | import html2pdf from 'html2pdf.js';
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 | import { supabase } from '@/lib/supabase';
+  7 |
+  8 | export default function ReportsPage() {
+
+
+
+Import traces:
+  Client Component Browser:
+    ./app/dashboard/reports/page.tsx [Client Component Browser]
+    ./app/dashboard/reports/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./app/dashboard/reports/page.tsx [Client Component SSR]
+    ./app/dashboard/reports/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:40:38.412] Server  ERROR   ⨯ ./app/dashboard/reports/page.tsx:5:1
+Module not found: Can't resolve 'html2pdf.js'
+  3 | import { useState, useEffect } from 'react';
+  4 | import { FileText, Printer, Calendar } from 'lucide-react';
+> 5 | import html2pdf from 'html2pdf.js';
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 | import { supabase } from '@/lib/supabase';
+  7 |
+  8 | export default function ReportsPage() {
+
+
+
+Import traces:
+  Client Component Browser:
+    ./app/dashboard/reports/page.tsx [Client Component Browser]
+    ./app/dashboard/reports/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./app/dashboard/reports/page.tsx [Client Component SSR]
+    ./app/dashboard/reports/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:40:38.416] Server  ERROR   ⨯ ./app/dashboard/reports/page.tsx:5:1
+Module not found: Can't resolve 'html2pdf.js'
+  3 | import { useState, useEffect } from 'react';
+  4 | import { FileText, Printer, Calendar } from 'lucide-react';
+> 5 | import html2pdf from 'html2pdf.js';
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 | import { supabase } from '@/lib/supabase';
+  7 |
+  8 | export default function ReportsPage() {
+
+
+
+Import traces:
+  Client Component Browser:
+    ./app/dashboard/reports/page.tsx [Client Component Browser]
+    ./app/dashboard/reports/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./app/dashboard/reports/page.tsx [Client Component SSR]
+    ./app/dashboard/reports/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:40:38.420] Server  LOG     ✓ Compiled in 20ms
+[00:40:38.521] Browser ERROR   ./app/dashboard/reports/page.tsx:5:1
+Module not found: Can't resolve 'html2pdf.js'
+  3 | import { useState, useEffect } from 'react';
+  4 | import { FileText, Printer, Calendar } from 'lucide-react';
+> 5 | import html2pdf from 'html2pdf.js';
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 | import { supabase } from '@/lib/supabase';
+  7 |
+  8 | export default function ReportsPage() {
+
+Import traces:
+  Client Component Browser:
+    ./app/dashboard/reports/page.tsx [Client Component Browser]
+    ./app/dashboard/reports/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./app/dashboard/reports/page.tsx [Client Component SSR]
+    ./app/dashboard/reports/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+[00:40:48.713] Browser ERROR   ./app/dashboard/reports/page.tsx:5:1
+Module not found: Can't resolve 'html2pdf.js'
+  3 | import { useState, useEffect } from 'react';
+  4 | import { FileText, Printer, Calendar } from 'lucide-react';
+> 5 | import html2pdf from 'html2pdf.js';
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 | import { supabase } from '@/lib/supabase';
+  7 |
+  8 | export default function ReportsPage() {
+
+Import traces:
+  Client Component Browser:
+    ./app/dashboard/reports/page.tsx [Client Component Browser]
+    ./app/dashboard/reports/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./app/dashboard/reports/page.tsx [Client Component SSR]
+    ./app/dashboard/reports/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+[00:40:49.734] Browser ERROR   ./app/dashboard/reports/page.tsx:5:1
+Module not found: Can't resolve 'html2pdf.js'
+  3 | import { useState, useEffect } from 'react';
+  4 | import { FileText, Printer, Calendar } from 'lucide-react';
+> 5 | import html2pdf from 'html2pdf.js';
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 | import { supabase } from '@/lib/supabase';
+  7 |
+  8 | export default function ReportsPage() {
+
+Import traces:
+  Client Component Browser:
+    ./app/dashboard/reports/page.tsx [Client Component Browser]
+    ./app/dashboard/reports/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./app/dashboard/reports/page.tsx [Client Component SSR]
+    ./app/dashboard/reports/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+[00:40:50.813] Browser ERROR   ./app/dashboard/reports/page.tsx:5:1
+Module not found: Can't resolve 'html2pdf.js'
+  3 | import { useState, useEffect } from 'react';
+  4 | import { FileText, Printer, Calendar } from 'lucide-react';
+> 5 | import html2pdf from 'html2pdf.js';
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 | import { supabase } from '@/lib/supabase';
+  7 |
+  8 | export default function ReportsPage() {
+
+Import traces:
+  Client Component Browser:
+    ./app/dashboard/reports/page.tsx [Client Component Browser]
+    ./app/dashboard/reports/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./app/dashboard/reports/page.tsx [Client Component SSR]
+    ./app/dashboard/reports/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+[00:40:51.869] Browser ERROR   ./app/dashboard/reports/page.tsx:5:1
+Module not found: Can't resolve 'html2pdf.js'
+  3 | import { useState, useEffect } from 'react';
+  4 | import { FileText, Printer, Calendar } from 'lucide-react';
+> 5 | import html2pdf from 'html2pdf.js';
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 | import { supabase } from '@/lib/supabase';
+  7 |
+  8 | export default function ReportsPage() {
+
+Import traces:
+  Client Component Browser:
+    ./app/dashboard/reports/page.tsx [Client Component Browser]
+    ./app/dashboard/reports/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./app/dashboard/reports/page.tsx [Client Component SSR]
+    ./app/dashboard/reports/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+[00:40:52.190] Browser ERROR   ./app/dashboard/reports/page.tsx:5:1
+Module not found: Can't resolve 'html2pdf.js'
+  3 | import { useState, useEffect } from 'react';
+  4 | import { FileText, Printer, Calendar } from 'lucide-react';
+> 5 | import html2pdf from 'html2pdf.js';
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 | import { supabase } from '@/lib/supabase';
+  7 |
+  8 | export default function ReportsPage() {
+
+Import traces:
+  Client Component Browser:
+    ./app/dashboard/reports/page.tsx [Client Component Browser]
+    ./app/dashboard/reports/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./app/dashboard/reports/page.tsx [Client Component SSR]
+    ./app/dashboard/reports/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+[00:40:54.929] Server  LOG     ✓ Compiled in 911ms
+[00:41:26.158] Server  LOG     ✓ Compiled in 21ms
+[00:41:26.418] Server  LOG     ✓ Compiled in 19ms
+[00:41:26.563] Server  LOG     ✓ Compiled in 18ms
+[00:44:14.666] Server  LOG     ✓ Compiled in 60ms
+[00:44:14.924] Server  LOG     ✓ Compiled in 39ms
+[00:44:15.065] Server  LOG     ✓ Compiled in 15ms
+[00:44:15.167] Browser ERROR   ./app/dashboard/reports/page.tsx:241:31
+Parsing ecmascript source code failed
+  239 |     };
+  240 |
+> 241 |     const generatehtml2pdf = (await import('html2pdf.js')).default;
+      |                               ^^^^^
+  242 |             
+  243 |             const StudentsCountReport = async () => {
+  244 |         try {
+
+await isn't allowed in non-async function
+
+Import traces:
+  Client Component Browser:
+    ./app/dashboard/reports/page.tsx [Client Component Browser]
+    ./app/dashboard/reports/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./app/dashboard/reports/page.tsx [Client Component SSR]
+    ./app/dashboard/reports/page.tsx [Server Component]
+[00:44:34.274] Browser ERROR   ./app/dashboard/reports/page.tsx:241:31
+Parsing ecmascript source code failed
+  239 |     };
+  240 |
+> 241 |     const generatehtml2pdf = (await import('html2pdf.js')).default;
+      |                               ^^^^^
+  242 |             
+  243 |             const StudentsCountReport = async () => {
+  244 |         try {
+
+await isn't allowed in non-async function
+
+Import traces:
+  Client Component Browser:
+    ./app/dashboard/reports/page.tsx [Client Component Browser]
+    ./app/dashboard/reports/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./app/dashboard/reports/page.tsx [Client Component SSR]
+    ./app/dashboard/reports/page.tsx [Server Component]
+[00:44:34.787] Browser ERROR   ./app/dashboard/reports/page.tsx:241:31
+Parsing ecmascript source code failed
+  239 |     };
+  240 |
+> 241 |     const generatehtml2pdf = (await import('html2pdf.js')).default;
+      |                               ^^^^^
+  242 |             
+  243 |             const StudentsCountReport = async () => {
+  244 |         try {
+
+await isn't allowed in non-async function
+
+Import traces:
+  Client Component Browser:
+    ./app/dashboard/reports/page.tsx [Client Component Browser]
+    ./app/dashboard/reports/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./app/dashboard/reports/page.tsx [Client Component SSR]
+    ./app/dashboard/reports/page.tsx [Server Component]
+[00:44:35.436] Browser ERROR   ./app/dashboard/reports/page.tsx:241:31
+Parsing ecmascript source code failed
+  239 |     };
+  240 |
+> 241 |     const generatehtml2pdf = (await import('html2pdf.js')).default;
+      |                               ^^^^^
+  242 |             
+  243 |             const StudentsCountReport = async () => {
+  244 |         try {
+
+await isn't allowed in non-async function
+
+Import traces:
+  Client Component Browser:
+    ./app/dashboard/reports/page.tsx [Client Component Browser]
+    ./app/dashboard/reports/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./app/dashboard/reports/page.tsx [Client Component SSR]
+    ./app/dashboard/reports/page.tsx [Server Component]
+[00:44:36.483] Browser ERROR   ./app/dashboard/reports/page.tsx:241:31
+Parsing ecmascript source code failed
+  239 |     };
+  240 |
+> 241 |     const generatehtml2pdf = (await import('html2pdf.js')).default;
+      |                               ^^^^^
+  242 |             
+  243 |             const StudentsCountReport = async () => {
+  244 |         try {
+
+await isn't allowed in non-async function
+
+Import traces:
+  Client Component Browser:
+    ./app/dashboard/reports/page.tsx [Client Component Browser]
+    ./app/dashboard/reports/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./app/dashboard/reports/page.tsx [Client Component SSR]
+    ./app/dashboard/reports/page.tsx [Server Component]
+[00:44:42.280] Browser ERROR   ./app/dashboard/reports/page.tsx:241:31
+Parsing ecmascript source code failed
+  239 |     };
+  240 |
+> 241 |     const generatehtml2pdf = (await import('html2pdf.js')).default;
+      |                               ^^^^^
+  242 |             
+  243 |             const StudentsCountReport = async () => {
+  244 |         try {
+
+await isn't allowed in non-async function
+
+Import traces:
+  Client Component Browser:
+    ./app/dashboard/reports/page.tsx [Client Component Browser]
+    ./app/dashboard/reports/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./app/dashboard/reports/page.tsx [Client Component SSR]
+    ./app/dashboard/reports/page.tsx [Server Component]
+[00:44:42.566] Browser ERROR   ./app/dashboard/reports/page.tsx:241:31
+Parsing ecmascript source code failed
+  239 |     };
+  240 |
+> 241 |     const generatehtml2pdf = (await import('html2pdf.js')).default;
+      |                               ^^^^^
+  242 |             
+  243 |             const StudentsCountReport = async () => {
+  244 |         try {
+
+await isn't allowed in non-async function
+
+Import traces:
+  Client Component Browser:
+    ./app/dashboard/reports/page.tsx [Client Component Browser]
+    ./app/dashboard/reports/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./app/dashboard/reports/page.tsx [Client Component SSR]
+    ./app/dashboard/reports/page.tsx [Server Component]
+[00:45:28.262] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:46:03.409] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:46:42.590] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:46:47.586] Browser DEBUG   #1 0ms Starting document clone with size 958x950 scrolled to 0,0
+[00:46:47.938] Browser DEBUG   #1 220ms Document cloned, element located at 119.953125,0 with size 718.109375x320.578125 using computed rendering
+[00:46:47.938] Browser DEBUG   #1 220ms Starting DOM parsing
+[00:46:47.938] Browser DEBUG   #1 242ms Starting renderer for element at 119.953125,0 with size 719x321
+[00:46:47.938] Browser DEBUG   #1 244ms Canvas renderer initialized (719x321) with scale 2
+[00:46:47.938] Browser DEBUG   #1 256ms Finished rendering
+[00:47:01.153] Browser DEBUG   #2 0ms Starting document clone with size 958x950 scrolled to 0,0
+[00:47:01.430] Browser DEBUG   #2 195ms Document cloned, element located at 119.953125,0 with size 718.109375x320.578125 using computed rendering
+[00:47:01.430] Browser DEBUG   #2 195ms Starting DOM parsing
+[00:47:01.430] Browser DEBUG   #2 206ms Starting renderer for element at 119.953125,0 with size 719x321
+[00:47:01.430] Browser DEBUG   #2 206ms Canvas renderer initialized (719x321) with scale 2
+[00:47:01.430] Browser DEBUG   #2 216ms Finished rendering
+[00:47:28.311] Browser DEBUG   #3 0ms Starting document clone with size 958x950 scrolled to 0,0
+[00:47:28.569] Browser DEBUG   #3 201ms Document cloned, element located at 119.953125,0 with size 718.109375x224.578125 using computed rendering
+[00:47:28.569] Browser DEBUG   #3 201ms Starting DOM parsing
+[00:47:28.569] Browser DEBUG   #3 221ms Starting renderer for element at 119.953125,0 with size 719x225
+[00:47:28.569] Browser DEBUG   #3 222ms Canvas renderer initialized (719x225) with scale 2
+[00:47:28.569] Browser DEBUG   #3 230ms Finished rendering
+[00:48:31.122] Server  WARN    ⚠ Unsupported metadata viewport is configured in metadata export in /dashboard/reports. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+[00:48:31.155] Server  WARN    ⚠ Unsupported metadata viewport is configured in metadata export in /dashboard/reports. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+[00:48:31.189] Server  WARN    ⚠ Unsupported metadata viewport is configured in metadata export in /dashboard/reports. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+[00:48:31.226] Server  WARN    ⚠ Unsupported metadata viewport is configured in metadata export in /dashboard/reports. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+[00:48:31.262] Server  WARN    ⚠ Unsupported metadata viewport is configured in metadata export in /dashboard/reports. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+[00:48:31.295] Server  WARN    ⚠ Unsupported metadata viewport is configured in metadata export in /dashboard/reports. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+[00:48:31.328] Server  WARN    ⚠ Unsupported metadata viewport is configured in metadata export in /dashboard/reports. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+[00:48:31.365] Server  WARN    ⚠ Unsupported metadata viewport is configured in metadata export in /dashboard/reports. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+[00:48:31.409] Server  WARN    ⚠ Unsupported metadata viewport is configured in metadata export in /dashboard/reports. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+[00:48:49.394] Server  LOG     ✓ Compiled in 23ms
+[00:49:05.781] Server  LOG     ✓ Compiled in 93ms
+[00:49:25.437] Server  LOG     ✓ Compiled in 26ms
+[00:49:25.652] Server  LOG     ✓ Compiled in 24ms
+[00:49:59.124] Server  LOG     ✓ Compiled in 14ms
+[00:50:46.256] Server  WARN    ⚠ Unsupported metadata viewport is configured in metadata export in /dashboard. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+[00:50:48.854] Server  WARN    ⚠ Unsupported metadata viewport is configured in metadata export in /dashboard. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+[00:50:52.155] Server  WARN    ⚠ Unsupported metadata viewport is configured in metadata export in /dashboard. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+[00:50:53.297] Server  WARN    ⚠ Unsupported metadata viewport is configured in metadata export in /dashboard. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+[00:50:53.866] Server  WARN    ⚠ Unsupported metadata viewport is configured in metadata export in /dashboard/students. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+[00:50:54.199] Server  WARN    ⚠ Unsupported metadata viewport is configured in metadata export in /dashboard/students. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+[00:50:54.889] Server  WARN    ⚠ Unsupported metadata viewport is configured in metadata export in /dashboard. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+[00:52:59.210] Server  LOG     ✓ Compiled in 36ms
+[00:52:59.563] Server  LOG     ✓ Compiled in 29ms
+[00:52:59.843] Server  LOG     ✓ Compiled in 109ms
+[00:53:00.204] Server  LOG     ✓ Compiled in 198ms
+[00:53:00.311] Browser ERROR   ./app/dashboard/layout.tsx:237:27
+Parsing ecmascript source code failed
+  235 |                         </button>
+  236 |                         <h2 style={{ fontSize: 'clamp(1rem, 2vw, 1.1rem)', fontWeight: '700', whiteSpace: 'nowrap' }}>لوحة التحكم</h2>
+> 237 |                     </div>
+      |                           ^
+> 238 |
+      | ^
+> 239 |                     <div style={{ display: 'flex', alignItems: 'center', gap: '0.75rem', flexWrap: 'wrap', justifyContent: 'flex-end' }}>
+      | ^^^^^^^^^^^^^^^^^^^^^
+  240 |                         <div style={{ position: 'relative', display: 'none', '@media (min-width: 768px)': { display: 'block' } }}>
+  241 |                             <Search size={18} style={{ position: 'absolute', right: '10px', top: '50%', transform: 'translateY(-50%)', color: '#94a3b8' }} />
+  242 |                             <input
+
+Expected '</', got 'jsx text (
+
+                    )'
+
+Import traces:
+  Client Component Browser:
+    ./app/dashboard/layout.tsx [Client Component Browser]
+    ./app/dashboard/layout.tsx [Server Component]
+
+  Client Component SSR:
+    ./app/dashboard/layout.tsx [Client Component SSR]
+    ./app/dashboard/layout.tsx [Server Component]
+[00:53:06.303] Browser ERROR   ./app/dashboard/layout.tsx:256:27
+Parsing ecmascript source code failed
+  254 |                         </button>
+  255 |                         <h2 style={{ fontSize: 'clamp(1rem, 2vw, 1.1rem)', fontWeight: '700', whiteSpace: 'nowrap' }}>لوحة التحكم</h2>
+> 256 |                     </div>
+      |                           ^
+> 257 |
+      | ^
+> 258 |                     <div style={{ display: 'flex', alignItems: 'center', gap: '0.75rem', flexWrap: 'wrap', justifyContent: 'flex-end' }}>
+      | ^^^^^^^^^^^^^^^^^^^^^
+  259 |                         <div style={{ position: 'relative', display: 'none', '@media (min-width: 768px)': { display: 'block' } }}>
+  260 |                             <Search size={18} style={{ position: 'absolute', right: '10px', top: '50%', transform: 'translateY(-50%)', color: '#94a3b8' }} />
+  261 |                             <input
+
+Expected '</', got 'jsx text (
+
+                    )'
+
+Import traces:
+  Client Component Browser:
+    ./app/dashboard/layout.tsx [Client Component Browser]
+    ./app/dashboard/layout.tsx [Server Component]
+
+  Client Component SSR:
+    ./app/dashboard/layout.tsx [Client Component SSR]
+    ./app/dashboard/layout.tsx [Server Component]
+[00:53:23.725] Browser ERROR   ./app/dashboard/layout.tsx:237:27
+Parsing ecmascript source code failed
+  235 |                         </button>
+  236 |                         <h2 style={{ fontSize: 'clamp(1rem, 2vw, 1.1rem)', fontWeight: '700', whiteSpace: 'nowrap' }}>لوحة التحكم</h2>
+> 237 |                     </div>
+      |                           ^
+> 238 |
+      | ^
+> 239 |                     <div style={{ display: 'flex', alignItems: 'center', gap: '0.75rem', flexWrap: 'wrap', justifyContent: 'flex-end' }}>
+      | ^^^^^^^^^^^^^^^^^^^^^
+  240 |                         <div style={{ position: 'relative', display: 'none', '@media (min-width: 768px)': { display: 'block' } }}>
+  241 |                             <Search size={18} style={{ position: 'absolute', right: '10px', top: '50%', transform: 'translateY(-50%)', color: '#94a3b8' }} />
+  242 |                             <input
+
+Expected '</', got 'jsx text (
+
+                    )'
+
+Import traces:
+  Client Component Browser:
+    ./app/dashboard/layout.tsx [Client Component Browser]
+    ./app/dashboard/layout.tsx [Server Component]
+
+  Client Component SSR:
+    ./app/dashboard/layout.tsx [Client Component SSR]
+    ./app/dashboard/layout.tsx [Server Component]
+[00:53:32.830] Browser ERROR   ./app/dashboard/layout.tsx:237:27
+Parsing ecmascript source code failed
+  235 |                         </button>
+  236 |                         <h2 style={{ fontSize: 'clamp(1rem, 2vw, 1.1rem)', fontWeight: '700', whiteSpace: 'nowrap' }}>لوحة التحكم</h2>
+> 237 |                     </div>
+      |                           ^
+> 238 |
+      | ^
+> 239 |                     <div style={{ display: 'flex', alignItems: 'center', gap: '0.75rem', flexWrap: 'wrap', justifyContent: 'flex-end' }}>
+      | ^^^^^^^^^^^^^^^^^^^^^
+  240 |                         <div style={{ position: 'relative', display: 'none', '@media (min-width: 768px)': { display: 'block' } }}>
+  241 |                             <Search size={18} style={{ position: 'absolute', right: '10px', top: '50%', transform: 'translateY(-50%)', color: '#94a3b8' }} />
+  242 |                             <input
+
+Expected '</', got 'jsx text (
+
+                    )'
+
+Import traces:
+  Client Component Browser:
+    ./app/dashboard/layout.tsx [Client Component Browser]
+    ./app/dashboard/layout.tsx [Server Component]
+
+  Client Component SSR:
+    ./app/dashboard/layout.tsx [Client Component SSR]
+    ./app/dashboard/layout.tsx [Server Component]
+[00:53:34.069] Browser ERROR   ./app/dashboard/layout.tsx:237:27
+Parsing ecmascript source code failed
+  235 |                         </button>
+  236 |                         <h2 style={{ fontSize: 'clamp(1rem, 2vw, 1.1rem)', fontWeight: '700', whiteSpace: 'nowrap' }}>لوحة التحكم</h2>
+> 237 |                     </div>
+      |                           ^
+> 238 |
+      | ^
+> 239 |                     <div style={{ display: 'flex', alignItems: 'center', gap: '0.75rem', flexWrap: 'wrap', justifyContent: 'flex-end' }}>
+      | ^^^^^^^^^^^^^^^^^^^^^
+  240 |                         <div style={{ position: 'relative', display: 'none', '@media (min-width: 768px)': { display: 'block' } }}>
+  241 |                             <Search size={18} style={{ position: 'absolute', right: '10px', top: '50%', transform: 'translateY(-50%)', color: '#94a3b8' }} />
+  242 |                             <input
+
+Expected '</', got 'jsx text (
+
+                    )'
+
+Import traces:
+  Client Component Browser:
+    ./app/dashboard/layout.tsx [Client Component Browser]
+    ./app/dashboard/layout.tsx [Server Component]
+
+  Client Component SSR:
+    ./app/dashboard/layout.tsx [Client Component SSR]
+    ./app/dashboard/layout.tsx [Server Component]
+[00:53:34.837] Browser ERROR   ./app/dashboard/layout.tsx:237:27
+Parsing ecmascript source code failed
+  235 |                         </button>
+  236 |                         <h2 style={{ fontSize: 'clamp(1rem, 2vw, 1.1rem)', fontWeight: '700', whiteSpace: 'nowrap' }}>لوحة التحكم</h2>
+> 237 |                     </div>
+      |                           ^
+> 238 |
+      | ^
+> 239 |                     <div style={{ display: 'flex', alignItems: 'center', gap: '0.75rem', flexWrap: 'wrap', justifyContent: 'flex-end' }}>
+      | ^^^^^^^^^^^^^^^^^^^^^
+  240 |                         <div style={{ position: 'relative', display: 'none', '@media (min-width: 768px)': { display: 'block' } }}>
+  241 |                             <Search size={18} style={{ position: 'absolute', right: '10px', top: '50%', transform: 'translateY(-50%)', color: '#94a3b8' }} />
+  242 |                             <input
+
+Expected '</', got 'jsx text (
+
+                    )'
+
+Import traces:
+  Client Component Browser:
+    ./app/dashboard/layout.tsx [Client Component Browser]
+    ./app/dashboard/layout.tsx [Server Component]
+
+  Client Component SSR:
+    ./app/dashboard/layout.tsx [Client Component SSR]
+    ./app/dashboard/layout.tsx [Server Component]
+[00:53:35.980] Browser ERROR   ./app/dashboard/layout.tsx:237:27
+Parsing ecmascript source code failed
+  235 |                         </button>
+  236 |                         <h2 style={{ fontSize: 'clamp(1rem, 2vw, 1.1rem)', fontWeight: '700', whiteSpace: 'nowrap' }}>لوحة التحكم</h2>
+> 237 |                     </div>
+      |                           ^
+> 238 |
+      | ^
+> 239 |                     <div style={{ display: 'flex', alignItems: 'center', gap: '0.75rem', flexWrap: 'wrap', justifyContent: 'flex-end' }}>
+      | ^^^^^^^^^^^^^^^^^^^^^
+  240 |                         <div style={{ position: 'relative', display: 'none', '@media (min-width: 768px)': { display: 'block' } }}>
+  241 |                             <Search size={18} style={{ position: 'absolute', right: '10px', top: '50%', transform: 'translateY(-50%)', color: '#94a3b8' }} />
+  242 |                             <input
+
+Expected '</', got 'jsx text (
+
+                    )'
+
+Import traces:
+  Client Component Browser:
+    ./app/dashboard/layout.tsx [Client Component Browser]
+    ./app/dashboard/layout.tsx [Server Component]
+
+  Client Component SSR:
+    ./app/dashboard/layout.tsx [Client Component SSR]
+    ./app/dashboard/layout.tsx [Server Component]
+[00:53:41.517] Browser ERROR   ./app/dashboard/layout.tsx:237:27
+Parsing ecmascript source code failed
+  235 |                         </button>
+  236 |                         <h2 style={{ fontSize: 'clamp(1rem, 2vw, 1.1rem)', fontWeight: '700', whiteSpace: 'nowrap' }}>لوحة التحكم</h2>
+> 237 |                     </div>
+      |                           ^
+> 238 |
+      | ^
+> 239 |                     <div style={{ display: 'flex', alignItems: 'center', gap: '0.75rem', flexWrap: 'wrap', justifyContent: 'flex-end' }}>
+      | ^^^^^^^^^^^^^^^^^^^^^
+  240 |                         <div style={{ position: 'relative', display: 'none', '@media (min-width: 768px)': { display: 'block' } }}>
+  241 |                             <Search size={18} style={{ position: 'absolute', right: '10px', top: '50%', transform: 'translateY(-50%)', color: '#94a3b8' }} />
+  242 |                             <input
+
+Expected '</', got 'jsx text (
+
+                    )'
+
+Import traces:
+  Client Component Browser:
+    ./app/dashboard/layout.tsx [Client Component Browser]
+    ./app/dashboard/layout.tsx [Server Component]
+
+  Client Component SSR:
+    ./app/dashboard/layout.tsx [Client Component SSR]
+    ./app/dashboard/layout.tsx [Server Component]
+[00:53:41.639] Browser ERROR   ./app/dashboard/layout.tsx:237:27
+Parsing ecmascript source code failed
+  235 |                         </button>
+  236 |                         <h2 style={{ fontSize: 'clamp(1rem, 2vw, 1.1rem)', fontWeight: '700', whiteSpace: 'nowrap' }}>لوحة التحكم</h2>
+> 237 |                     </div>
+      |                           ^
+> 238 |
+      | ^
+> 239 |                     <div style={{ display: 'flex', alignItems: 'center', gap: '0.75rem', flexWrap: 'wrap', justifyContent: 'flex-end' }}>
+      | ^^^^^^^^^^^^^^^^^^^^^
+  240 |                         <div style={{ position: 'relative', display: 'none', '@media (min-width: 768px)': { display: 'block' } }}>
+  241 |                             <Search size={18} style={{ position: 'absolute', right: '10px', top: '50%', transform: 'translateY(-50%)', color: '#94a3b8' }} />
+  242 |                             <input
+
+Expected '</', got 'jsx text (
+
+                    )'
+
+Import traces:
+  Client Component Browser:
+    ./app/dashboard/layout.tsx [Client Component Browser]
+    ./app/dashboard/layout.tsx [Server Component]
+
+  Client Component SSR:
+    ./app/dashboard/layout.tsx [Client Component SSR]
+    ./app/dashboard/layout.tsx [Server Component]
+[00:54:02.264] Server  LOG     ✓ Compiled in 1847ms
+[00:54:02.449] Server  WARN    ⚠ Unsupported metadata viewport is configured in metadata export in /dashboard. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+[00:54:02.481] Server  WARN    ⚠ Unsupported metadata viewport is configured in metadata export in /dashboard. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+[00:54:02.707] Server  WARN    ⚠ Unsupported metadata viewport is configured in metadata export in /dashboard. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+[00:54:02.755] Server  WARN    ⚠ Unsupported metadata viewport is configured in metadata export in /dashboard. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+[00:54:02.933] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:54:30.339] Server  WARN    ⚠ Unsupported metadata viewport is configured in metadata export in /dashboard. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+[00:54:30.347] Server  LOG     ✓ Compiled in 788ms
+[00:54:30.389] Server  WARN    ⚠ Unsupported metadata viewport is configured in metadata export in /dashboard. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+[00:54:30.426] Server  WARN    ⚠ Unsupported metadata viewport is configured in metadata export in /dashboard. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+[00:54:30.459] Server  WARN    ⚠ Unsupported metadata viewport is configured in metadata export in /dashboard. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+[00:54:30.792] Server  WARN    ⚠ Unsupported metadata viewport is configured in metadata export in /dashboard. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+[00:54:31.025] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:54:34.175] Server  LOG     ✓ Compiled in 121ms
+[00:55:14.327] Server  WARN    ⚠ Unsupported metadata viewport is configured in metadata export in /dashboard. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+[00:55:14.539] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:55:25.762] Server  WARN    ⚠ Unsupported metadata viewport is configured in metadata export in /dashboard/students. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+[00:55:43.260] Server  WARN    ⚠ Unsupported metadata viewport is configured in metadata export in /dashboard/attendance. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+[00:55:57.925] Server  WARN    ⚠ Unsupported metadata viewport is configured in metadata export in /dashboard/reports. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+[00:56:04.467] Browser DEBUG   #1 0ms Starting document clone with size 360x740 scrolled to 0,0
+[00:56:05.005] Browser DEBUG   #1 409ms Document cloned, element located at -358.109375,0 with size 718.109375x287.1875 using computed rendering
+[00:56:05.005] Browser DEBUG   #1 410ms Starting DOM parsing
+[00:56:05.005] Browser DEBUG   #1 435ms Starting renderer for element at -358.109375,0 with size 719x288
+[00:56:05.005] Browser DEBUG   #1 436ms Canvas renderer initialized (719x288) with scale 2
+[00:56:05.005] Browser DEBUG   #1 456ms Finished rendering
+[00:57:52.316] Server  LOG     ✓ Compiled in 28ms
+[00:57:52.738] Server  LOG     ✓ Compiled in 29ms
+[00:58:01.522] Server  LOG     ✓ Compiled in 31ms
+[00:58:17.197] Server  LOG     ✓ Compiled in 27ms
+[00:58:27.853] Server  LOG     ✓ Compiled in 23ms
+[00:58:28.427] Server  LOG     ✓ Compiled in 43ms
+[01:01:26.940] Browser DEBUG   #2 0ms Starting document clone with size 360x740 scrolled to 0,0
+[01:01:27.210] Browser DEBUG   #2 318ms Document cloned, element located at -358.109375,0 with size 718.109375x287.1875 using computed rendering
+[01:01:27.210] Browser DEBUG   #2 318ms Starting DOM parsing
+[01:01:27.210] Browser DEBUG   #2 341ms Starting renderer for element at -358.109375,0 with size 719x288
+[01:01:27.210] Browser DEBUG   #2 341ms Canvas renderer initialized (719x288) with scale 2
+[01:01:27.210] Browser DEBUG   #2 352ms Finished rendering
+[01:01:37.785] Browser DEBUG   #3 0ms Starting document clone with size 360x740 scrolled to 0,0
+[01:01:38.048] Browser DEBUG   #3 238ms Document cloned, element located at -358.109375,0 with size 718.109375x287.1875 using computed rendering
+[01:01:38.048] Browser DEBUG   #3 239ms Starting DOM parsing
+[01:01:38.048] Browser DEBUG   #3 257ms Starting renderer for element at -358.109375,0 with size 719x288
+[01:01:38.048] Browser DEBUG   #3 258ms Canvas renderer initialized (719x288) with scale 2
+[01:01:38.048] Browser DEBUG   #3 267ms Finished rendering
+[01:02:07.116] Browser DEBUG   #4 0ms Starting document clone with size 360x740 scrolled to 0,0
+[01:02:07.384] Browser DEBUG   #4 245ms Document cloned, element located at -358.109375,0 with size 718.109375x287.1875 using computed rendering
+[01:02:07.384] Browser DEBUG   #4 246ms Starting DOM parsing
+[01:02:07.384] Browser DEBUG   #4 264ms Starting renderer for element at -358.109375,0 with size 719x288
+[01:02:07.384] Browser DEBUG   #4 265ms Canvas renderer initialized (719x288) with scale 2
+[01:02:07.384] Browser DEBUG   #4 274ms Finished rendering
+[01:02:36.186] Server  WARN    ⚠ Unsupported metadata viewport is configured in metadata export in /dashboard. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+[01:08:06.431] Server  WARN    ⚠ Unsupported metadata viewport is configured in metadata export in /dashboard. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+[01:08:06.902] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[01:08:07.557] Browser ERROR   uncaughtError: Error: Hydration failed because the server rendered HTML didn't match the client. As a result this tree will be regenerated on the client. This can happen if a SSR-ed Client Component used:
+
+- A server/client branch `if (typeof window !== 'undefined')`.
+- Variable input such as `Date.now()` or `Math.random()` which changes each time it's called.
+- Date formatting in a user's locale which doesn't match the server.
+- External changing data without sending a snapshot of it along with the HTML.
+- Invalid HTML tag nesting.
+
+It can also happen if the client has a browser extension installed which messes with the HTML before React loaded.
+
+https://react.dev/link/hydration-mismatch
+
+  ...
+    <LoadingBoundary name="/" loading={null}>
+      <HTTPAccessFallbackBoundary notFound={<SegmentViewNode>} forbidden={undefined} unauthorized={undefined}>
+        <HTTPAccessFallbackErrorBoundary pathname="/dashboard" notFound={<SegmentViewNode>} forbidden={undefined} ...>
+          <RedirectBoundary>
+            <RedirectErrorBoundary router={{...}}>
+              <InnerLayoutRouter url="/dashboard" tree={[...]} params={{}} cacheNode={{...}} segmentPath={[...]} ...>
+                <SegmentViewNode type="layout" pagePath="dashboard/...">
+                  <SegmentTrieNode>
+                  <script>
+                  <script>
+                  <script>
+                  <script>
+                  <script>
+                  <script>
+                  <ClientSegmentRoot Component={function DashboardLayout} slots={{...}} ...>
+                    <DashboardLayout params={Promise}>
+                      <div style={{display:"flex", ...}}>
+                        <AnimatePresence>
+                        <motion.aside initial={false} animate={{width:"0px", ...}} style={{...}}>
+                          <aside
+                            style={{
++                             background: "#ffffff"
++                             borderLeft: "1px solid var(--border)"
++                             overflow: "hidden"
++                             display: "flex"
+-                             display: "flex"
++                             flexDirection: "column"
++                             position: "relative"
+-                             position: "relative"
++                             zIndex: 50
++                             boxShadow: "4px 0 24px rgba(0,0,0,0.02)"
++                             height: "100vh"
+-                             height: "100vh"
++                             top: 0
+-                             top: "0px"
++                             right: 0
+-                             right: "0px"
++                             width: "0px"
+-                             width: "280px"
++                             opacity: 0
+-                             opacity: "1"
+-                             background-image: "initial"
+-                             background-position-x: "initial"
+-                             background-position-y: "initial"
+-                             background-size: "initial"
+-                             background-repeat: "initial"
+-                             background-attachment: "initial"
+-                             background-origin: "initial"
+-                             background-clip: "initial"
+-                             background-color: "rgb(255, 255, 255)"
+-                             border-left-width: ""
+-                             border-left-style: ""
+-                             border-left-color: ""
+-                             overflow-x: "hidden"
+-                             overflow-y: "hidden"
+-                             flex-direction: "column"
+-                             z-index: "50"
+-                             box-shadow: "rgba(0, 0, 0, 0.02) 4px 0px 24px"
+                            }}
+                            ref={function useMotionRef.useCallback}
+                          >
+                        ...
+                          <div style={{display:"flex", ...}}>
+                            <button onClick={function onClick} className="btn-icon" style={{minWidth:"...", ...}}>
+                              <Menu size={20}>
+                                <svg
+                                  ref={null}
+                                  xmlns="http://www.w3.org/2000/svg"
+                                  width={20}
+                                  height={20}
+                                  viewBox="0 0 24 24"
+                                  fill="none"
+                                  stroke="currentColor"
+                                  strokeWidth={2}
+                                  strokeLinecap="round"
+                                  strokeLinejoin="round"
++                                 className="lucide lucide-menu"
+-                                 className="lucide lucide-x"
+                                  aria-hidden="true"
+                                >
+                                  <path
++                                   d="M4 5h16"
+-                                   d="M18 6 6 18"
+                                  >
+                                  <path
++                                   d="M4 12h16"
+-                                   d="m6 6 12 12"
+                                  >
++                                 <path d="M4 19h16">
+                            ...
+              ...
+
+[01:08:24.343] Server  WARN    ⚠ Unsupported metadata viewport is configured in metadata export in /dashboard/students. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+[01:08:43.995] Server  WARN    ⚠ Unsupported metadata viewport is configured in metadata export in /dashboard/classes. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+[01:08:53.533] Server  WARN    ⚠ Unsupported metadata viewport is configured in metadata export in /dashboard/attendance. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+[01:11:08.699] Server  WARN    ⚠ Unsupported metadata viewport is configured in metadata export in /dashboard/attendance. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+[01:11:09.242] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[01:11:12.285] Server  WARN    ⚠ Unsupported metadata viewport is configured in metadata export in /dashboard. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+[01:12:08.900] Server  WARN    ⚠ Unsupported metadata viewport is configured in metadata export in /dashboard. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+[01:12:09.101] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[01:12:13.477] Server  WARN    ⚠ Unsupported metadata viewport is configured in metadata export in /dashboard/logs. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+[01:12:15.969] Server  WARN    ⚠ Unsupported metadata viewport is configured in metadata export in /dashboard. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport

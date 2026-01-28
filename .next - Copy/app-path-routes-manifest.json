@@ -1,0 +1,16 @@
+{
+  "/_global-error/page": "/_global-error",
+  "/_not-found/page": "/_not-found",
+  "/dashboard/attendance/page": "/dashboard/attendance",
+  "/dashboard/classes/page": "/dashboard/classes",
+  "/dashboard/control/page": "/dashboard/control",
+  "/dashboard/fees/page": "/dashboard/fees",
+  "/dashboard/logs/page": "/dashboard/logs",
+  "/dashboard/page": "/dashboard",
+  "/dashboard/reports/page": "/dashboard/reports",
+  "/dashboard/settings/page": "/dashboard/settings",
+  "/dashboard/staff/page": "/dashboard/staff",
+  "/dashboard/students/page": "/dashboard/students",
+  "/favicon.ico/route": "/favicon.ico",
+  "/page": "/"
+}
