@@ -18,7 +18,7 @@ export default function LoginPage() {
     setLoading(true);
     
     // التحقق من بيانات الدخول
-    if (username === 'admin' && password === 'admin145') {
+    if (username === 'admin' && password === 'admin199') {
       setTimeout(() => {
         router.push('/dashboard');
         setLoading(false);
